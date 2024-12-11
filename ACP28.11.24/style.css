@@ -1,0 +1,11 @@
+body {
+  background-color: cornsilk;
+  font-weight: bolder;
+  font-family: cursive;
+}
+h2 {
+  color: rgb(56, 133, 135);
+}
+#mydatedisplay {
+  color: rgb(45, 71, 119);
+}
